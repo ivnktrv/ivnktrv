@@ -5,4 +5,4 @@
 
 ***
 
-### My [docker hub](https://hub.docker.com/u/ivnktrv)
+## Зеркала репозиториев буду размещать [тут](https://gitverse.ru/ivnktrv)
