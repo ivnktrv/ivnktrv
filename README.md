@@ -5,4 +5,4 @@
 
 ***
 
-## Зеркала репозиториев буду размещать [тут](https://gitverse.ru/ivnktrv)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnktrv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
