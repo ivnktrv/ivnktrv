@@ -2,14 +2,13 @@
 <h3 align="center">𝘐'𝘮 𝘫𝘶𝘴𝘵 𝘪𝘯𝘵𝘰 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨</h3>
 <br><br><br>
 
-• **My site:** https://ivnktrv.github.io/mysite/
+• **My site:** <a href="https://ivnktrv.github.io/mysite/" text-decoration="none">click</a>
 
 <br>
 
-<h3 align="center">
+<h3>
 
 **`/`** `Languages and tools` **`/`**
-
 </h3>
 
 <br>
@@ -23,10 +22,4 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnktrv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-
-<center>
-    <img src="img/bear.gif" width="300px">
-</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnktrv&layout=compact&theme=tokyonight&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivnktrv&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
