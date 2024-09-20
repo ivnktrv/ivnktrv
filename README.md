@@ -2,11 +2,13 @@
 <h3 align="center">𝘐'𝘮 𝘫𝘶𝘴𝘵 𝘪𝘯𝘵𝘰 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨</h3>
 <br><br><br>
 
-<center>
+
+<h3 align="center">
 
 **`/`** `Languages and tools` **`/`**
 
-</center>
+</h3>
+
 
 <br>
 
