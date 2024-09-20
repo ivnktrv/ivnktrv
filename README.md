@@ -22,4 +22,4 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnktrv&layout=compact&theme=tokyonight&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivnktrv&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnktrv&layout=compact&theme=tokyonight&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivnktrv&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
