@@ -21,6 +21,8 @@
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" heigth="40">&nbsp;
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" heigth="40">&nbsp;
 
+![](https://komarev.com/ghpvc/?username=ivnktrv&style=for-the-badge&color=blue)
+
 ***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivnktrv&layout=compact&theme=tokyonight&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivnktrv&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
