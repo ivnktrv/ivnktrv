@@ -1,6 +1,14 @@
 <h1 align="center">ℍ𝕚! 𝕀'𝕞 𝕚𝕧𝕟𝕜𝕥𝕣𝕧 ツ</a>
 <h3 align="center">𝘐'𝘮 𝘫𝘶𝘴𝘵 𝘪𝘯𝘵𝘰 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨</h3>
-<br><br><br>
+<br><br>
+
+<center>
+
+![](https://komarev.com/ghpvc/?username=ivnktrv&style=for-the-badge&color=blue)
+
+</center>
+
+<br>
 
 • **My site:** <a href="https://ivnktrv.github.io/mysite/" text-decoration="none">click</a>
 
@@ -20,8 +28,6 @@
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" heigth="40">&nbsp;
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" heigth="40">&nbsp;
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" heigth="40">&nbsp;
-
-![](https://komarev.com/ghpvc/?username=ivnktrv&style=for-the-badge&color=blue)
 
 ***
 
